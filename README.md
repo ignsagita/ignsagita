@@ -2,7 +2,7 @@
 - 🌱 My focus areas are LLMs, Reinforcement Learning, Deep Learning – model design, fine-tuning, optimization.
 - ✨ I'm happy to learn how to use LLMs to help doctors create a diagnosis: [Mistral vs. BioMistral on DDx](https://github.com/ignsagita/nlp-ddx)
 - 😄 In the future, I aspire to start some Deep Learning and Reinforcement Learning projects. Please stay tune! []()
-- 📒 I am learning Cloud Development and Deployment, Agentic AI, and Kubernetes at the moment
+- 📒 I am learning Cloud Development and Deployment, Agentic AI, and Kubernetes at the moment.
 - 📫 Feel free to reach me out: (https://www.linkedin.com/in/ignasius-sagita/)
 
 <p align="left">
