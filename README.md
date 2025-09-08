@@ -1,8 +1,16 @@
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/8e65d926-e5e2-45f7-852a-950930fe4b0d" />
+
 ## Hi folks! 👋
+### My name is Ignasius, or people usually call me Gita.
 - 🌱 My focus areas are LLMs, Reinforcement Learning, Deep Learning – model design, fine-tuning, optimization.
-- ✨ I'm happy to learn how to use LLMs to help doctors create a diagnosis: [Mistral vs. BioMistral on DDx](https://github.com/ignsagita/nlp-ddx)
-- 😄 In the future, I aspire to start some Deep Learning and Reinforcement Learning projects. Please stay tune! []()
-- 📒 I am learning Cloud Development and Deployment, Agentic AI, and Kubernetes at the moment.
+- ✨ My AI and Data Science projects include (but are not limited to):
+  - Development and Deployment of Diabetes Prescreen Platform using Lifestyle Habit: [App](https://diabetes-prescreen.streamlit.app/) | [Repo](https://github.com/ignsagita/class-diabetes-lifestyle)
+  - LLMs assistance for clinicians in developing differential diagnostic [DDx](https://github.com/ignsagita/nlp-ddx)
+  - Comprehensive Data Mining on [Online Retail](https://github.com/ignsagita/data-mining_online-retail)
+  - CNN vs. Pretrained Model on [CIFAR](https://github.com/ignsagita/cnn-resnet-cifar) or [Fashion-MNIST](https://github.com/ignsagita/neuralnets-fashionmnist)
+  - Regression problem on [Energy Efficiency](https://github.com/ignsagita/energy-regression) and [Housing Price](https://github.com/ignsagita/regression-nn-housing) 
+- 😄 Currently, I am working on some reinforcement problems and an AI chatbot. Please stay tuned! []()
+- 📒 In the meantime, I am  also exploring Cloud Development and Deployment, Agentic AI, and Kubernetes.
 - 📫 Feel free to reach me out: (https://www.linkedin.com/in/ignasius-sagita/)
 
 <p align="left">
