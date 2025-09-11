@@ -6,6 +6,7 @@
 - ✨ My AI and Data Science projects include (but are not limited to):
   - Development and Deployment of Diabetes Prescreen Platform using Lifestyle Habit: [App](https://diabetes-prescreen.streamlit.app/) | [Repo](https://github.com/ignsagita/class-diabetes-lifestyle)
   - LLMs assistance for clinicians in developing differential diagnostic [DDx](https://github.com/ignsagita/nlp-ddx)
+  - Timeseries Forecasting and Classification using TensorFlow for [Open Power System Data in Sweden](https://github.com/ignsagita/timeseries-nn)
   - Comprehensive Data Mining on [Online Retail](https://github.com/ignsagita/data-mining_online-retail)
   - CNN vs. Pretrained Model on [CIFAR](https://github.com/ignsagita/cnn-resnet-cifar) or [Fashion-MNIST](https://github.com/ignsagita/neuralnets-fashionmnist)
   - Regression problem on [Energy Efficiency](https://github.com/ignsagita/energy-regression) and [Housing Price](https://github.com/ignsagita/regression-nn-housing) 
