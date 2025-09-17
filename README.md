@@ -3,7 +3,7 @@
 ## Hi folks! 👋
 ### My name is Ignasius, or people usually call me Gita.
 - 🌱 My focus areas are LLMs, Agentic AI, Reinforcement Learning, Deep Learning – model design, fine-tuning, optimization.
-- 😄 My latest project is to build [a multi-agent customer support system] (https://github.com/ignsagita/chatbot-multi-agents) for CRM 
+- 😄 My latest project is to build [a multi-agent customer support system](https://github.com/ignsagita/chatbot-multi-agents) for CRM 
 - ✨ My AI and Data Science projects include (but are not limited to):
   - Development and Deployment of Diabetes Prescreen Platform using Lifestyle Habit: [App](https://diabetes-prescreen.streamlit.app/) | [Repo](https://github.com/ignsagita/class-diabetes-lifestyle)
   - LLMs assistance for clinicians in developing differential diagnostic [DDx](https://github.com/ignsagita/nlp-ddx)
